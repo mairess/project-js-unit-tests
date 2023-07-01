@@ -20,6 +20,4 @@ const createStudent = (name) => {
   return { name: `${name}`, feedback };
 };
 
-console.log(createStudent('Maires'));
-
 module.exports = createStudent;
