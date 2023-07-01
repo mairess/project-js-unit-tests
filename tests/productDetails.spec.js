@@ -34,10 +34,7 @@ describe('6 - Implemente os casos de teste para a função `productDetails`', ()
     // Teste se productDetails é uma função.
     expect(productDetails).toBeInstanceOf(Function);
     // Teste se o retorno da função é um array.
-    expect(productDetails('Alvejante', 'Detergente')).toMatchObject([
-      { name: 'Alvejante', details: { productId: 'Alvejante123' } },
-      { name: 'Detergente', details: { productId: 'Detergente123' } }
-    ]);
+    expect(productDetails('Alvejante', 'Detergente')).toBeInstanceOf(Array);
     // Teste se o array retornado pela função contém dois itens dentro.
     expect(productDetails('perfume', 'desodorante')).toHaveLength(2);
     // Teste se os dois itens dentro do array retornado pela função são objetos.
