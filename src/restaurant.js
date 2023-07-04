@@ -15,7 +15,8 @@ const createMenu = (object) => {
     };
     const pay = () => {
         let total = 0;
-        const itemsObj = Object.values(object).reduce((acumulator, item) => ({ ...acumulator, ...item }), {});
+        const itemsObj = Object.values(object)
+        .reduce((acumulator, item) => ({ ...acumulator, ...item }), {});
 
         for (const item of consumptionArray) {
                 if (item in itemsObj) {
