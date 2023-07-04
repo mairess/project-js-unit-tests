@@ -68,5 +68,5 @@ const getCharacter = (name) => {
 
   return undefined;
 };
-console.log(getCharacter('no exists to return undefined'));
+
 module.exports = getCharacter;
