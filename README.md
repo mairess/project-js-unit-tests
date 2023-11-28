@@ -1,11 +1,11 @@
 # <p align="center">Projeto ES6 e Testes Unitários!</p>
 
-# Objetivo do Projeto
+## Contexto
 
-Este projeto tem como objetivo:
+O objetivo desse projeto foi utilizar o `Jest` para escrever `testes unitários` que verifiquem o funcionamento adequado de funções, adotando o Desenvolvimento Orientado a Testes `(TDD)`.
 
-- **Desenvolver e Implementar Testes Unitários:** Utilizando o módulo Jest do NodeJS, a meta é escrever testes que verifiquem o funcionamento adequado das funções.
+## Competências desenvolvidas
 
-- **Criar Funções Aderentes a Testes Implementados:** A tarefa inclui a escrita de funções de modo que satisfaçam os testes já criados, garantindo a coerência entre implementação e requisitos.
-
-- **Adotar Desenvolvimento Orientado a Testes (TDD):** O projeto visa a criação de testes e funções seguindo uma abordagem de Desenvolvimento Orientado a Testes, promovendo a robustez e confiabilidade do código desde o início do desenvolvimento.
+- Capacidade escrever funções para testes já criados.
+- Capcidade de escrever testes para funções já criadas.
+- Capacidade de realizar o TDD (Desenvolvimento Orientado a Testes).
