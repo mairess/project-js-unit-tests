@@ -19,12 +19,12 @@ Esse projeto não tem front-end, apenas os testes `Jest`.
 Rode todos os testes com:
 
 ```JSON
-npm run test
+npm test
 ```
 Um teste por vez, acrescentando o nome do test/spec:
 
 ```JSON
-npm run test numbers
+npm test numbers
 ```
 
 
