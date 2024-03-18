@@ -27,6 +27,9 @@ Um teste por vez, acrescentando o nome do test/spec:
 npm test numbers
 ```
 
+### cobertura jest
+
+![alt text](coverage-jest.png)
 
 ## Competências desenvolvidas
 
