@@ -6,24 +6,24 @@ O objetivo desse projeto foi utilizar o `Jest` para escrever `testes unitários`
 
 ## Rode o projeto localmente
 
-> É preciso ter o [Node](https://nodejs.org/en) instalado em sua máquina.
+>⚠️ É preciso ter o [Node](https://nodejs.org/en) instalado em sua máquina.
 
 Primeiro, instale as dependências com:
 
-```JSON
+```SHELL
 npm install
 ```
 
-Esse projeto não tem front-end, apenas os testes `Jest`.
-
 Rode todos os testes com:
 
-```JSON
+Esse projeto não tem front-end, apenas os testes em `Jest`.
+
+```SHELL
 npm test
 ```
 Um teste por vez, acrescentando o nome do test/spec:
 
-```JSON
+```SHELL
 npm test numbers
 ```
 
