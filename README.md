@@ -1,5 +1,13 @@
 # <p align="center">Projeto ES6 e Testes Unitários!</p>
 
+<div align="center">
+  
+| Statements                  | Branches                | Functions                 | Lines                |
+| --------------------------- | ----------------------- | ------------------------- | -------------------- |
+| ![Statements](https://img.shields.io/badge/Coverage-100%25-brightgreen.svg) | ![Branches](https://img.shields.io/badge/Coverage-92.85%25-brightgreen.svg) | ![Functions](https://img.shields.io/badge/Coverage-100%25-brightgreen.svg) | ![Lines](https://img.shields.io/badge/Coverage-100%25-brightgreen.svg)    |
+
+</div>
+
 ## Contexto
 
 O objetivo desse projeto foi utilizar o `Jest` para escrever `testes unitários` que verifiquem o funcionamento adequado de funções, adotando o `TDD` Desenvolvimento Orientado a Testes.
@@ -14,22 +22,26 @@ Primeiro, instale as dependências com:
 npm install
 ```
 
-Rode todos os testes com:
-
 Esse projeto não tem front-end, apenas os testes em `Jest`.
+
+Rode os testes
 
 ```SHELL
 npm test
 ```
-Um teste por vez, acrescentando o nome do test/spec:
+
+Rode um teste por vez, acrescentando o nome do test/spec:
 
 ```SHELL
 npm test numbers
 ```
 
-### cobertura jest
+Rode a cobertura
 
-![alt text](coverage-jest.png)
+```SHELL
+npm run coverage
+```
+
 
 ## Competências desenvolvidas
 
