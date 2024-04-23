@@ -2,9 +2,9 @@
 
 <div align="center">
   
-| Statements                  | Branches                | Functions                 | Lines                |
-| --------------------------- | ----------------------- | ------------------------- | -------------------- |
-| ![Statements](https://img.shields.io/badge/Coverage-100%25-brightgreen.svg) | ![Branches](https://img.shields.io/badge/Coverage-92.85%25-brightgreen.svg) | ![Functions](https://img.shields.io/badge/Coverage-100%25-brightgreen.svg) | ![Lines](https://img.shields.io/badge/Coverage-100%25-brightgreen.svg)    |
+<a href="https://codecov.io/gh/mairess/project-js-unit-tests" > 
+ <img src="https://codecov.io/gh/mairess/project-js-unit-tests/graph/badge.svg?token=Z91G7XZZNM"/> 
+ </a>
 
 </div>
 
